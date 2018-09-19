@@ -1,3 +1,0 @@
-Testando todos os comendos passados na Aula01 de Git
-
-Vamos fazer mais um teste.
